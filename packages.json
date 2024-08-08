@@ -1,0 +1,64 @@
+{
+  "packages": [
+    {
+      "id": "7zip.7zip",
+      "name": "7-Zip"
+    },
+	{
+      "id": "Notepad++.Notepad++",
+      "name": "Notepad++"
+    },
+    {
+      "id": "Brave.Brave",
+      "name": "Brave Browser"
+    },
+    {
+      "id": "XP89DCGQ3K6VLD",
+      "name": "Power Toys"
+    },
+	{
+      "id": "Google.QuickShare",
+      "name": "Quick Share from Google"
+    },
+	{
+      "id": "WireGuard.WireGuard",
+      "name": "WireGuard"
+    },
+	{
+      "id": "CodeSector.TeraCopy",
+      "name": "TeraCopy"
+    },
+	{
+      "id": "MediaArea.MediaInfo.GUI",
+      "name": "MediaInfo"
+    },
+	{
+      "id": "ente-io.auth-desktop",
+      "name": "Ente Auth"
+    },
+	{
+      "id": "VideoLAN.VLC",
+      "name": "VLC media player"
+    },
+	{
+      "id": "MullvadVPN.MullvadBrowser",
+      "name": "Mullvad Browser"
+    },
+	{
+      "id": "OpenWhisperSystems.Signal",
+      "name": "Signal Messenger"
+    },
+	{
+      "id": "Rainmeter.Rainmeter",
+      "name": "Rainmeter"
+    },
+	{
+      "id": "qBittorrent.qBittorrent",
+      "name": "qBittorrent"
+    },
+	{
+      "id": "GitHub.cli",
+      "name": "GitHub CLI"
+    }
+  ]
+}
