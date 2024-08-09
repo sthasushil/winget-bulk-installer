@@ -1,4 +1,4 @@
-# Read package names from packages.txt file
+# Read package names from packages.json file
 $packagesJson = Get-Content packages.json | ConvertFrom-Json
 
 # Install with Error handling
